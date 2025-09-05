@@ -4,7 +4,7 @@
         "outDir": "./dist/js/",
         "noEmitOnError": true
     },
-    "include": [
+    "include":[ 
         "./src/**/*"
-    ]
+, "dist/js/saldo-component.js", "dist/js/nova-transacao-component.js"    ]
 }
